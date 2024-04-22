@@ -66,20 +66,22 @@ Operating temperature: 5–45 °C.
 Weight: 33 kg.
 Installation position: floor, ceiling, walls.
 
-
-
-![download](https://user-images.githubusercontent.com/36288975/201624230-89cc83ff-cecd-49ea-84c6-c67066e9d157.jpg)
+![q11](https://github.com/suganjoker/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/105915942/84ff6ed2-eaf0-418d-8acb-2b9a856c7c1d)
 
 ### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
+![WhatsApp Image 2024-04-22 at 13 36 04_818a7e21](https://github.com/suganjoker/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/105915942/50071028-a376-40d0-9fef-7ae53d7e4f86)
 
 #### Procedure : 
 
-1. click on dart platfom icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
+1. click on dart platfom icon ![image]
 2. click on the internet interface 
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
 3. click on the 
+![WhatsApp Image 2024-04-22 at 13 36 06_97964e4a](https://github.com/suganjoker/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/105915942/45c11675-1623-4524-a182-35c26e7fb1ee)
+![WhatsApp Image 2024-04-22 at 13 36 05_b9e448ff](https://github.com/suganjoker/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/105915942/75ca29ca-5989-4a87-b5a2-8d24ca500af8)
+![WhatsApp Image 2024-04-22 at 13 36 04_818a7e21](https://github.com/suganjoker/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/105915942/b66d49e6-c12a-402e-9157-8e924ce8ab81)
 
 
 
@@ -100,6 +102,7 @@ and click on the connect icon
 
 ### output video and screen shots of pick and place 
 
+![WhatsApp Image 2024-04-22 at 13 36 05_f4a400ba](https://github.com/suganjoker/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/105915942/d29accff-2535-4896-ab42-4d2298586f60)
 
 
 
@@ -109,6 +112,7 @@ and click on the connect icon
 ### Results: 
 
 
+![q11](https://github.com/suganjoker/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/105915942/684c3d62-9d96-482e-816c-93672c4578ca)
 
 
 
